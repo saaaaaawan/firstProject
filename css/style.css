@@ -378,7 +378,7 @@ margin-bottom: 4px;
 }
 
 .about .about-content ul {
-    margin-top: 18px;
+    margin-top: 10px;
     padding: 0;
     list-style: none;
     margin-bottom: 25px;
@@ -1489,7 +1489,7 @@ transition: .5s;
 @media(max-width: 792px){
 
 .section-header h2 {
-    font-size: 30px;
+    font-size: 23px;
 }
 }
 
@@ -1507,6 +1507,10 @@ transition: .5s;
 
 .image-text a:hover{
     color:red;
+}
+
+.services .section-header{
+    margin:0;
 }
 
     
