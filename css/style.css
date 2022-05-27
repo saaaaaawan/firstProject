@@ -1489,7 +1489,7 @@ transition: .5s;
 @media(max-width: 792px){
 
 .section-header h2 {
-    font-size: 23px;
+    font-size: 20px;
 }
 }
 
@@ -1510,6 +1510,10 @@ transition: .5s;
 }
 
 .services .section-header{
+    margin:0;
+}
+
+.about .section-header{
     margin:0;
 }
 
