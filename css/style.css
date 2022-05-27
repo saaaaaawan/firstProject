@@ -1503,4 +1503,9 @@ transition: .5s;
     .image-text a{
         color: black;
 }
+
+.image-text a:hover{
+    color:red;
+}
+
     
