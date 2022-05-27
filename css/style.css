@@ -1437,7 +1437,7 @@ transition: .5s;
 }
 
 .nav-bar.nav-sticky {
-    position: fixed;
+    position: sticky;
     width: 100%;
     top: 0px;
     left: 0;
