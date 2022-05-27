@@ -1522,10 +1522,11 @@ transition: .5s;
 
 @media(max-width:792px){
     .services h3 {
-        font-size:17px
+        font-size:17px;
     }
     .blog h2{
-        font-size:26px}
+        font-size:26px;
+    }
 }
 
     
