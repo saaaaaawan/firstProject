@@ -1517,4 +1517,10 @@ transition: .5s;
     margin:0;
 }
 
+@media(max-width:792px){
+    .services h3 {
+        font-size:17px
+    }
+}
+
     
