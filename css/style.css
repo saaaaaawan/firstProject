@@ -414,7 +414,7 @@ body {
     color: #E81C2E;
 }
 .section-header h2 {
-    margin-bottom: 10;
+    margin-bottom: 10px;
     font-size: 45px;
     font-weight: 700;
     text-transform: capitalize;
