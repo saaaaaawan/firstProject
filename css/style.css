@@ -526,10 +526,13 @@ body {
     display: flex;
     align-items: center;
     background: #202C45;
+    padding:94px 0px;
 }
 
 .facts .col-lg-3, .facts .col-lg-6{
-
+display:flex;
+margin:15px 0px;
+justify-content:center;
 width:  100%;
 }
 
