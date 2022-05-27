@@ -369,6 +369,7 @@ margin-bottom: 4px;
     position: relative;
     width: 100%;
     max-width: 700px;
+    text-align:center;
    
 }
 
@@ -668,7 +669,7 @@ width:  100%;
     font-weight: 700;
     letter-spacing: 2px;
     text-transform: uppercase;
-    padding-top: 25px;
+    padding-top: 0px;
 }
 
 .column-card ul li{
@@ -745,7 +746,7 @@ width:  100%;
 }
 
 .location-form .header {
-    margin-bottom: 40px;
+    margin-bottom: 5px;
     text-align:center;
 }
 
