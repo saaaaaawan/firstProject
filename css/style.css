@@ -97,7 +97,7 @@
 
 .navbar-content{
     padding: 0px ;
-    margin-top: 0px;
+    margin-top: 9px;
 }
 
 .navbar-content  li {
@@ -130,7 +130,7 @@ color:  red;
 .navbar-content  {
     float: left;
     width: 75%;
-    padding-left:0px ;
+    padding-left:60px ;
 
 
 }
