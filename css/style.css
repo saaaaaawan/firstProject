@@ -435,6 +435,8 @@ body {
 
 .services .col-6, .services .col-3 {
     width: 100%;
+    padding-left:15px;
+    text-align:center;
 }
 
 
