@@ -745,6 +745,7 @@ width:  100%;
 
 .location-form .header {
     margin-bottom: 40px;
+    text-align:center;
 }
 
 .location-form .header p::after {
@@ -759,16 +760,22 @@ width:  100%;
 
 .location-form h2 {
 text-transform: capitalize;
-font-size: 35px;
+font-size: 45px;
 font-weight: 700;
 }
 
+@media(max-width:792px){
+    .location-form h2 {
+        font-size:30px;
+    }
+}
 .location-form .col-6 {
     width: 50%;
     display: flex;
     padding-top: 15px;
     float: left;
     margin-bottom: 30px;
+    justify-content:center;
 }
 
  .location-text {
