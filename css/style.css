@@ -1517,7 +1517,7 @@ transition: .5s;
 }
 
 .about .section-header{
-    margin:0 auto;
+    margin:;
 }
 
 @media(max-width:792px){
