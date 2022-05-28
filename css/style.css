@@ -1513,11 +1513,11 @@ transition: .5s;
 }
 
 .services .section-header{
-    margin:0;
+    margin:auto 0;
 }
 
 .about .section-header{
-    margin:0;
+    margin:0 auto;
 }
 
 @media(max-width:792px){
