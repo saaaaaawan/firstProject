@@ -184,16 +184,22 @@ color:  red;
 }
 
 .navbar-resoponsive {
-    background-color: #202C45;
+    background-color:#ffa500;
     width: 100%;
 }
 .navbar-resoponsive a {  
     display: inline-block;
-    color: #ffffff;
+    color: black;
     padding: 15px;
-    font-weight: 500;
+    font-weight: 700;
     letter-spacing: 1px;
     font-size: 1rem;
+    transition:0.5s;
+}
+
+.navbar-resoponsive a:hover{
+    background-color: red;
+    letter-spacing:1.5;
 }
 
 .navbar-resoponsive button{
@@ -205,6 +211,9 @@ color:  red;
  background-color: #202C45 ;
 margin-right: 15px;
 margin-bottom: 4px;
+    top: 10px;
+    right: 0;
+    position:relative;
 }
 
 .menu-bar-links a{
@@ -220,7 +229,8 @@ margin-bottom: 4px;
 
 .container .caraousel {
     position: relative;
-    
+    filter: brightness(0.5);
+
    
 }
 
@@ -312,7 +322,7 @@ margin-bottom: 4px;
 
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
-  background-color:red;
+  background-color:#ffa500;
 }
 
 .fade {
@@ -356,6 +366,8 @@ margin-bottom: 4px;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
         align-items: center;
+    justify-content: center;
+}
     
 }
 
@@ -1447,7 +1459,10 @@ transition: .5s;
 }
 
 @media(max-width: 992px){
-   .navbar-content{display:none;}
+   .navbar-content{
+       display:none;
+    position:relative;
+    }
 }
 
 @media(max-width: 992px){
