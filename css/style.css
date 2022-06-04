@@ -328,6 +328,7 @@ margin-bottom: 4px;
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
   background-color:#ffa500;
+    color:red;
 }
 
 .fade {
