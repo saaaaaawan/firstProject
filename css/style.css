@@ -218,12 +218,12 @@ margin-bottom: -11px;
     right: 0;
     position:;
     transition:0.5s;
-    margin-top:-17px;
+    margin-top:-15px;
     border: none;
     margin-right: -32px;
     font-size: 25px;
     
-    height: 57px;
+    height: 54px;
 }
 .navbar-resoponsive button:hover{
     color:white;
