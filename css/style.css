@@ -219,6 +219,11 @@ margin-bottom: 4px;
     position:;
     transition:0.5s;
     margin-top:-4px;
+    border: none;
+    margin-right: -32px;
+    font-size: 25px;
+    
+    height: 54px;
 }
 .navbar-resoponsive button:hover{
     color:white;
