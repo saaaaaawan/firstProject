@@ -42,7 +42,7 @@
    }
 
    .top-bar .logo h1 span {
-    color: #202C45;
+    color:#6273f3;
 }
 
 .col-9 { 
@@ -61,8 +61,8 @@
     text-align: center;
     height: 40px;
     padding: 7px 0;
-    background-color: black;
-    border-radius: 50%;
+    background-color: #6273f3;
+    border-radius:0%;
     color: whitesmoke;
 }
 
