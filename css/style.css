@@ -1238,7 +1238,9 @@ padding: 0px 0 25px 0;
 }
 
 .image-meta {
-    margin-top: 10px;
+    margin-top: 16px;
+    text-align:center;
+    color:orange;
 
 }
 
@@ -1262,6 +1264,7 @@ padding: 0px 0 25px 0;
 
 .image-meta a {
     padding-left: 5px;
+    color:black;
 }
 
 
