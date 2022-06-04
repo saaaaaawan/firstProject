@@ -625,7 +625,7 @@ width:  100%;
 }
 
 .price p {
-    color: red;
+    color: black;
     font-size: 18px;
     font-weight: 700;
     letter-spacing: 4px;
@@ -641,7 +641,7 @@ width:  100%;
     height: 2px;
     left: 25%;
     bottom: 0;
-    background: #E81C2E;
+    background: black;
 }
 
 .price h2 {
@@ -702,7 +702,7 @@ width:  100%;
 }
 
  .column-card ul li i.fa-check-circle {
-    color: #39B972;
+    color: #ffa500;
 }
 
 .column-card  ul li i {
@@ -720,10 +720,10 @@ width:  100%;
 }
 
 .card-footer a {
-    background-color: #202C45;
+    background-color: #6273f3;
     padding: 10px 30px 10px 30px;
     border-radius: 60px;
-    color: #E81C2E;
+    color:white;
     display: inline-block;
 }
 
