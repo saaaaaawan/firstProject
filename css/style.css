@@ -1098,6 +1098,7 @@ overflow: auto;
     position: relative;
     width: 100%;
     padding: 45px 0;
+     background-color: #e6dddd;
 }
 
 .testimonial .testimonials-carousel {
