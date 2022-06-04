@@ -237,7 +237,7 @@ margin-bottom: 4px;
 
 .container .caraousel {
     position: relative;
-    filter: brightness(0.5);
+   
 
    
 }
@@ -339,6 +339,9 @@ margin-bottom: 4px;
   -webkit-animation-duration: 1.5s;
   animation-name: fade;
   animation-duration: 1.5s;
+    
+    filter: brightness(0.5);
+
 }
 
 @-webkit-keyframes fade {
