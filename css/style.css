@@ -593,7 +593,7 @@ width:  100%;
     content: "\f067";
     top: 0px;
     right: -25px;
-    color: #ffffff;
+    color: black;
     font-size: 25px;
     font-family: "Font Awesome 5 Free";
     font-weight: 900;
@@ -602,13 +602,13 @@ width:  100%;
 .facts .facts-text h3 {
     position: relative;
     display: inline-block;
-    color: #ffffff;
+    color: black;
     font-size: 60px;
     font-weight: 700;
 }
 
 .facts .facts-text p {
-    color: #ffffff;
+    color: black;
     font-size: 18px;
     font-weight: 500;
     margin: 0;
