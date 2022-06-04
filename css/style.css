@@ -856,13 +856,13 @@ font-weight: 700;
     padding: 0 15px;
     border-radius: 5px;
     border: 1px solid #ffffff;
-    background: transparent;
+    background: ;
     width: 100%;
 }
 
   .control-group .control {
 
- background-color: orange;
+ background-color: white;
   height: 120px;
     padding: 15px;
 overflow: auto;
