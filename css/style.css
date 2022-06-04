@@ -550,7 +550,7 @@ body {
     margin: 45px 0;
     display: flex;
     align-items: center;
-    background: #202C45;
+    background:#ffa500;
     padding:94px 0px;
 }
 
@@ -573,7 +573,7 @@ width:  100%;
     float:  left;
     margin-top: 15px;
     font-size: 45px;
-    color: #E81C2E;
+    color: #6273f3;
 }
 
 .facts .facts-text {
