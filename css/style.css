@@ -758,7 +758,8 @@ width:  100%;
 
 .location-form {
     padding:  25px 0 25px 0;
-    background-color:#f3f5e7;
+    background-color:#f9f7f5;
+
 }
 
 .location-form .col-7 {
@@ -1098,11 +1099,10 @@ overflow: auto;
     position: relative;
     width: 100%;
     padding: 45px 0;
-     background-color: #f3f5e7;
+     background-color: #f9f7f5;
 }
 
-;
-}
+
 
 .testimonial .testimonials-carousel {
     position: relative;
