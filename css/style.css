@@ -211,7 +211,7 @@ color:  #6273f3;
  padding: 0px 15px 0px 15px;
  font-weight: 500;
  letter-spacing: 1px;
- background-color: #ffa500; ;
+ background-color: #6273f3 ;
 margin-right: 15px;
 margin-bottom: 4px;
     top: 1px;
@@ -221,7 +221,7 @@ margin-bottom: 4px;
     margin-top:-4px;
 }
 .navbar-resoponsive button:hover{
-    color:red;
+    color:white;
 }
 
 .menu-bar-links a{
