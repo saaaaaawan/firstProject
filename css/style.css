@@ -1551,7 +1551,7 @@ transition: .5s;
     }
 }
 .about-content p{
-    text-alignment:center;
+    text-align:center;
     margin-top:-33px;
 }
 
