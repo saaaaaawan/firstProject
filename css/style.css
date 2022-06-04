@@ -770,7 +770,7 @@ width:  100%;
     font-weight: 700;
     letter-spacing: 4px;
     text-transform: uppercase;
-    color: red;
+    color: orange;
 }
 
 .location-form .header {
@@ -785,7 +785,7 @@ width:  100%;
     height: 2px;
     left: 0%;
     bottom: 0;
-    background: #E81C2E;
+    background: orange;
 }
 
 .location-form h2 {
@@ -826,13 +826,13 @@ font-weight: 700;
 .location-form i {
     padding-top: 3px;
     font-size: 30px;
-    color: #E81C2E;
+    color: #6273f3;
 }
 
 .location-form .col-5 {
     padding: 50px 15px 50px 15px;
     width: %;
-    background-color: #202c45;
+    background-color: orange;
     text-align: center;
     border-radius: 60px;
     margin-top: 25px;
@@ -843,7 +843,7 @@ font-weight: 700;
     font-size: 25px;
     margin-bottom: 20px;
     font-weight: 700px;
-    color:  white;
+    color:  black;
     text-transform: capitalize;
 }
 
@@ -862,7 +862,7 @@ font-weight: 700;
 
   .control-group .control {
 
- background-color: #202c45;
+ background-color: orange;
   height: 120px;
     padding: 15px;
 overflow: auto;
