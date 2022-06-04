@@ -1190,7 +1190,7 @@ overflow: auto;
     height: 2px;
     left: 25%;
     bottom: 0;
-    background: #E81C2E;
+    background: orange;
 
 }
 
@@ -1203,7 +1203,7 @@ overflow: auto;
     font-weight: 700;
     letter-spacing: 4px;
     text-transform: uppercase;
-    color: red;
+    color: orange;
 }
 
 .blog h2 {
