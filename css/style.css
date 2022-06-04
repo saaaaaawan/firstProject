@@ -901,7 +901,7 @@ overflow: auto;
     font-weight: 700;
     letter-spacing: 4px;
     text-transform: uppercase;
-    color: red;
+    color: orange;
 }
 
 .team  h3 {
@@ -927,7 +927,7 @@ overflow: auto;
     height: 2px;
     left: 25%;
     bottom: 0;
-    background: #E81C2E;
+    background: orange;
 }
 
 
@@ -962,7 +962,7 @@ overflow: auto;
     width: 100%;
     padding: 35px 30px 30px 30px;
     text-align: center;
-    background: #202C45;
+    background: orange;
     border-radius: 0 0 5px 5px;
     transition: .5s;
 }
@@ -1003,7 +1003,7 @@ overflow: auto;
     text-align: center;
     font-size: 16px;
     color: #ffffff;
-    background: #202C45;
+    background: orange;
     border-radius: 40px;
     transition: .5s;
 }
