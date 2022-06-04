@@ -1550,5 +1550,9 @@ transition: .5s;
         font-size:26px;
     }
 }
+.about-content p{
+    text-alignment:center;
+    margin-top:-33px;
+}
 
     
