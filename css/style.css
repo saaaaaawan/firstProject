@@ -213,8 +213,9 @@ margin-right: 15px;
 margin-bottom: 4px;
     top: 1px;
     right: 0;
-    position:absolute;
-    transition:0.5s
+    position:;
+    transition:0.5s;
+    margin-top:-4px;
 }
 .navbar-resoponsive button:hover{
     color:red;
