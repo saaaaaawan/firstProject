@@ -1284,6 +1284,7 @@ padding: 0px 0 25px 0;
     line-height: 14px;
     border-right: 1px solid rgba(0, 0, 0, .15);
     width: 33.33%;
+    margin-left:22px;
 }
 
 
@@ -1306,6 +1307,7 @@ padding: 0px 0 25px 0;
 
 .image-meta p:first-child {
     padding-left: 0;
+    width:21%;
 }
 
 .image-meta i {
