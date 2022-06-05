@@ -1360,6 +1360,7 @@ padding: 0px 0 25px 0;
  .blog .post .col-4{
     width: 100%;
     padding-top: 15px;
+     padding-left:0px;
 }
 }
 
