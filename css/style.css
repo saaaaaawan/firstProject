@@ -528,7 +528,7 @@ body {
     margin: 0;
     font-size: 60px;
     line-height: 60px;
-    background-image: linear-gradient(#6273f, #6273f);
+    background-image: linear-gradient(#6273fe, #6273fe);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     transition: .5s;
