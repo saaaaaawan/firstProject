@@ -1376,6 +1376,7 @@ padding: 0px 0 25px 0;
 .footer {
     padding: 25px 0 25px 0;
     background-color: orange;
+    margin-top: 36px;
 }
 
 .footer .col-4{
@@ -1423,7 +1424,7 @@ padding: 0px 0 25px 0;
 
 .footer-social a:hover {
     color:  white;
-    background-color: red;
+    background-color: #6273f3;
 
 }
 
@@ -1435,7 +1436,7 @@ transition: .5s;
 }
 
 .footer .list a:hover{
-    color:  red;
+    color:  #6273f3;
     letter-spacing: 1.5px;
 }
 
