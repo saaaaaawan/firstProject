@@ -1026,14 +1026,14 @@ overflow: auto;
     transition: .5s;
 }
 
-.team .col-4:hover .team .image-text p {
+.team .col-4:hover .image-text p {
     color:white;
 }
 
-.team .col-4:hover .team .image-text h2{
+.team .col-4:hover .image-text h2{
     color:white;
 }
-
+.team .col-4:hover .image-text 
 
 .team .col-4:hover .image-text {
     color: white;
@@ -1049,6 +1049,7 @@ overflow: auto;
 
 .team .col-4:hover .team-social a {
     background:#6273f3;
+    color:white
 }
 
 .team .team-social a:hover {
