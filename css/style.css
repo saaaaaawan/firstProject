@@ -1026,7 +1026,13 @@ overflow: auto;
     transition: .5s;
 }
 
+.team .col-4:hover .team .image-text p {
+    color:white;
+}
 
+.team .col-4:hover .team .image-text h2{
+    color:white;
+}
 
 
 .team .col-4:hover .image-text {
