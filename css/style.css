@@ -1299,6 +1299,9 @@ padding: 0px 0 25px 0;
     color:black;
 }
 
+.image-meta a:hover{
+  color:#6273f3;
+}
 
 .image-meta p:first-child {
     padding-left: 0;
