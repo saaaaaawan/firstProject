@@ -1306,7 +1306,9 @@ padding: 0px 0 25px 0;
     color: orange;
     margin-right: px;
 }
-
+.image-meta i:hover { 
+    color:#6273f3;
+}
 .image {
     position: relative;
     width: 100%;
@@ -1324,7 +1326,7 @@ padding: 0px 0 25px 0;
     justify-content: center;
     flex-direction: column;
     border-radius: 70px;
-    background: red;
+    background:#6273f3;
     color: #ffffff;
     opacity: 0;
     transition: .5s;
