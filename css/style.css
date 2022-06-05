@@ -1553,7 +1553,7 @@ transition: .5s;
 }
 
 .backtotop:hover {
-    background: #202C45;
+    background:#6273f3;
 }
 
 @media(max-width: 792px){
@@ -1576,7 +1576,7 @@ transition: .5s;
 }
 
 .image-text a:hover{
-    color:#6273f3;
+    color:#6273f3!important;
 }
 
 .services .section-header{
