@@ -1600,4 +1600,28 @@ transition: .5s;
     margin-top:-33px;
 }
 
-    
+    .caraousel .image-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+     transform: translate(-50%, -50%);
+     margin:0;
+     color: white;
+     font-size: px
+  }  
+
+ 
+
+ @media( max-width:762px){
+
+  .caraousel .image-text h1 {
+     font-size: 29px;
+  }
+}
+
+@media( max-width:492px){
+
+  .caraousel .image-text h1 {
+     font-size: 13px;
+  }
+}
