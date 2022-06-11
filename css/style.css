@@ -1278,7 +1278,7 @@ padding: 0px 0 25px 0;
     text-align:center;
     color:orange;
     margin-left:22px;
-
+     display: none;
 }
 
 .image-meta p {
