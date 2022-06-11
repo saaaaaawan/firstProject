@@ -1495,6 +1495,7 @@ transition: .5s;
 @media(max-width: 772px){
     .footer .col-4{
  width: 100%;
+        margin-top:60px
 }
 }
 
