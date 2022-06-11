@@ -1654,7 +1654,7 @@ transition: .5s;
 
 @media(min-width:1400px){
        .mtr {
-           margin-top: 0px;
+           margin-top: -262px;
        }
        
        .mt2{
