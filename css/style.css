@@ -1654,11 +1654,11 @@ transition: .5s;
 
 @media(min-width:1400px){
        .mtr {
-           margin-top: -262px;
+           margin-top: 0px;
        }
        
        .mt2{
-           margin-top:-262px;
+           margin-top:-0px;
        }
 }
 
