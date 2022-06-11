@@ -176,11 +176,11 @@ color:  #6273f3;
    z-index: 2;
 }
 
-.dropdown-content  a:not(:last-child):after {
+.dropdown-content  a:not(:last-child) {
     display: block;
-    color: #ffffff;
+    color: black;
     padding: 15px;
-    font-weight: 500;
+    font-weight: 700;
     letter-spacing: 1px;
     border-bottom: 1px solid black;
 }
