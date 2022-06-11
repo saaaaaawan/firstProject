@@ -1651,3 +1651,7 @@ transition: .5s;
            margin-top:-262px;
        }
 }
+
+.dollarPrice{
+    color: #6273f3;
+}
