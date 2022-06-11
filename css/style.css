@@ -1655,8 +1655,8 @@ transition: .5s;
 .dollarPrice{
     color: #6273f3;
 }
-@media(max-width:452px){
+@media(max-width:352px){
 .top-bar .logo h1 {
-    font-size: 34px;
+    font-size: 31px;
 }
 }
