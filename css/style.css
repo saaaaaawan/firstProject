@@ -1656,10 +1656,12 @@ transition: .5s;
    .flexybox {
        flex-direction:column;
       }
-
-.dollarPrice{
+}
+.
+dollarPrice{
     color: #6273f3;
 }
+
 @media(max-width:352px){
 .top-bar .logo h1 {
     font-size: 31px;
