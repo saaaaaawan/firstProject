@@ -1524,6 +1524,10 @@ transition: .5s;
        display:none;
     position:relative;
     }
+    
+    .nav-bar.nav-sticky{
+        top:10px;
+    }
 }
 
 @media(max-width: 992px){
