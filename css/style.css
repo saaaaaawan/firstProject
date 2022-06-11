@@ -554,6 +554,7 @@ body {
     display: flex;
     flex-direction: column;
     margin-bottom: 45px;
+    margin-top: -12px
 }
 
 .services .service-item i {
