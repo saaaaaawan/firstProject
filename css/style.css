@@ -1644,21 +1644,21 @@ transition: .5s;
 }
    @media(min-width:992px){
        .mtr {
-           margin-top: -262px;
+           margin-top: px;
        }
        
        .mt2{
-           margin-top:-262px;
+           margin-top:px;
        }
 }
 
 @media(min-width:1400px){
        .mtr {
-           margin-top: 0px;
+           margin-top: px;
        }
        
        .mt2{
-           margin-top:-0px;
+           margin-top:px;
        }
 }
 
@@ -1673,4 +1673,5 @@ transition: .5s;
 .flexybox{
     display:flex;
     justify-content: center;
+    width:100%;
 }
