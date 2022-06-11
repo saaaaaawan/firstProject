@@ -1643,10 +1643,10 @@ transition: .5s;
 }
    @media(min-width:992px){
        .mtr {
-           margin-top: -260px;
+           margin-top: -280px;
        }
        
        .mt2{
-           margin-top:-260px;
+           margin-top:-280px;
        }
 }
