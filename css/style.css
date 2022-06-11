@@ -1670,3 +1670,7 @@ transition: .5s;
     font-size: 31px;
 }
 }
+.flexybox{
+    display:flex;
+    justify-content: center;
+}
