@@ -1652,6 +1652,16 @@ transition: .5s;
        }
 }
 
+@media(min-width:1400px){
+       .mtr {
+           margin-top: px;
+       }
+       
+       .mt2{
+           margin-top:px;
+       }
+}
+
 .dollarPrice{
     color: #6273f3;
 }
