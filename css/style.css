@@ -1641,4 +1641,12 @@ transition: .5s;
     width: 100%;
     height: 100%;
 }
-     
+   @media(min-width:992px){
+       .mtr {
+           margin-top: -233px;
+       }
+       
+       .mt2{
+           margin-top:-260px;
+       }
+}
