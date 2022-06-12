@@ -918,7 +918,7 @@ overflow: auto;
 
 .team {
     text-align: center;
-    margin: 25px 0  0 34px;
+    margin: 25px 0  0 0px;
 }
 .team .txt p {
     position: relative;
