@@ -592,7 +592,10 @@ width:  100%;
 }
 
 @media( min-width : 992px){
-   .facts .col-lg-6 { width:25%}
+   .facts .col-lg-6 { 
+       width:25%;
+    }
+   
 }
 
 .facts .facts-item{
@@ -1068,7 +1071,8 @@ overflow: auto;
   .team .col-4 { 
       width: 50%;
 }
-
+ .msf {
+        margin:0 0 0 10px;
 }
 
 @media(max-width:562px){
