@@ -1675,7 +1675,7 @@ dollarPrice{
     color: #6273f3;
 }
 
-@media(max-width:352px){
+@media(max-width:320px){
 .top-bar .logo h1 {
     font-size: 31px;
 }
