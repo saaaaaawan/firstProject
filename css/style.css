@@ -1074,7 +1074,7 @@ overflow: auto;
  .msf {
         margin:-40px 0 0 10px;
 }
-
+}
 @media(max-width:562px){
     .team .col-4 { width: 100%}
 }
