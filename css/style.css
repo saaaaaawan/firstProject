@@ -98,7 +98,7 @@
 
 .navbar-content{
     padding: 0px ;
-    margin-top: 9px;
+    margin-top: 6px;
 }
 
 .navbar-content  li {
@@ -892,6 +892,7 @@ font-weight: 700;
 overflow: auto;
     resize: vertical;
     width: 100%;
+      border:none;
 }
 
 @media( min-width: 842px){
@@ -914,7 +915,7 @@ overflow: auto;
 
 .team {
     text-align: center;
-    margin: 25px 0 34px;
+    margin: 25px 0  0 34px;
 }
 .team .txt p {
     position: relative;
@@ -1118,7 +1119,7 @@ overflow: auto;
     width: 100%;
     padding: 45px 0;
      background-color: #f9f7f5;
-     margin-bottom:45px;
+     margin-bottom:0px;
 }
 
 
