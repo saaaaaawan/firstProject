@@ -1075,8 +1075,10 @@ overflow: auto;
         margin:-40px 0 0 10px;
 }
 }
+
 @media(max-width:562px){
-    .team .col-4 { width: 100%}
+    .team .col-4 { width: 100%;
+    }
 }
 
 
@@ -1392,7 +1394,7 @@ padding: 0px 0 25px 0;
 
 
 .footer {
-    padding: 25px 0 25px 0;
+    padding: 42px 0 25px 0;
     background-color: orange;
     margin-top: px;
 }
