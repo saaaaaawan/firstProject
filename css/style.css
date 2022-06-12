@@ -1440,6 +1440,7 @@ padding: 0px 0 25px 0;
     width: 40px;
     height: 40px;
     transition:  .5s;
+    width:142px;
 }
 
 .footer-social a:hover {
@@ -1687,4 +1688,8 @@ dollarPrice{
 }
 .flex{
     display:flex;
+}
+
+.mb{
+    margin-botton:0px;
 }
