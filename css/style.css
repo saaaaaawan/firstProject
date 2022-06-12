@@ -1685,3 +1685,6 @@ dollarPrice{
     justify-content: center;
     width:100%;
 }
+.flex:{
+    display:flex;
+}
